@@ -1,0 +1,17 @@
+# Resolución de conflictos
+
+Un conflicto puede producirse cuando dos integrantes modifican
+las mismas líneas de un archivo desde ramas diferentes.
+
+Cuando Git detecta un conflicto, se deben revisar las diferencias
+entre las versiones.
+
+El conflicto debe resolverse manualmente seleccionando o
+combinando los cambios correspondientes.
+
+Luego se debe agregar el archivo corregido y crear un nuevo commit.
+
+Ejemplo:
+
+git add archivo
+git commit -m "Resolver conflicto"

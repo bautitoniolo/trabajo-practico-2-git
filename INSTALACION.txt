@@ -1,0 +1,19 @@
+# Instalación
+
+## Requisitos
+
+Para trabajar con este proyecto es necesario tener instalado:
+
+- Git
+- GitHub
+- Visual Studio Code
+
+## Clonar el repositorio
+
+Para descargar el proyecto se debe ejecutar:
+
+git clone URL_DEL_REPOSITORIO
+
+Luego ingresar a la carpeta:
+
+cd trabajo-practico-2-git

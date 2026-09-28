@@ -1,0 +1,41 @@
+# Comandos Git utilizados
+
+## Clonar repositorio
+
+git clone URL
+
+## Ver estado
+
+git status
+
+## Crear una rama
+
+git checkout -b nombre-rama
+
+## Cambiar de rama
+
+git checkout nombre-rama
+
+## Agregar cambios
+
+git add .
+
+## Crear commit
+
+git commit -m "Mensaje"
+
+## Subir cambios
+
+git push
+
+## Actualizar información
+
+git pull
+
+## Integrar ramas
+
+git merge nombre-rama
+
+## Ver historial
+
+git log

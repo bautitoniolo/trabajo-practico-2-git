@@ -1,0 +1,19 @@
+# Flujo de trabajo colaborativo
+
+El proyecto utiliza un flujo de trabajo basado en ramas.
+
+Cada integrante trabaja sobre su propia rama para realizar
+modificaciones sin afectar directamente a la rama principal.
+
+Las ramas utilizadas tendrán la siguiente estructura:
+
+- master
+- feature/ramiro
+- feature/bauti
+- feature/ivo
+
+Una vez finalizados los cambios, cada integrante subirá su rama
+a GitHub y creará un Pull Request hacia master.
+
+Los demás integrantes deberán revisar los cambios antes de
+realizar el merge.
