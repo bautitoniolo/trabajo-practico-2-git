@@ -1,6 +1,6 @@
 nombre del proyecto: tp de github
 
-integrantes: juan bautista toniolo, ramiro peralta, ivo liveratore
+integrantes: Juan Bautista Toniolo, Ramiro Peralta, Ivo Liveratore
 
 usuarios: bautitoniolo, Rama2140, Ivoliberatore12
 
